@@ -1252,7 +1252,6 @@
         "surfaces": [
             "cubic centimetre",
             "cubic centimeter"
-      ""
         ],
         "entity": "volume",
         "URI": "Cubic_centimetre",
@@ -2580,10 +2579,10 @@
             "kW"
         ]
     },
-    "femtowatt": {
+    "megawatt": {
         "SI": "MW",
         "surfaces": [
-            "femtowatt"
+            "megawatt"
         ],
         "entity": "power",
         "URI": "Watt",
